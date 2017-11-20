@@ -1,7 +1,7 @@
 <p align="center">
   <img src="http://josenunes.xyz/va-steri-lab/logo.svg" width="300px" />
 </p>
-<p align="center" style="margin-top: -20px">
+<p align="center" style="margin-top: -30px">
   Source code for the VA Steri+O3 Lab equipment (<a href="http://www.ventilaqua.com/EN/white/equipamentos">VentilAQUA, S.A.</a>)
 </p>
 <p align="center">
